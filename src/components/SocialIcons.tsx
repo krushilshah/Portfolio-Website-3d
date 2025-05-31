@@ -80,7 +80,11 @@ const SocialIcons = () => {
           </a>
         </span>
       </div>
-      <a className="resume-button" href="#">
+      <a
+        className="resume-button"
+        href="/images/resume.pdf" // path to the PDF in public folder
+        download="Karan_lakhhani_Resume.pdf" // optional: rename the file when downloading
+      >
         <HoverLinks text="RESUME" />
         <span>
           <TbNotes />
