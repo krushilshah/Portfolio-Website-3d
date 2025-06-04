@@ -5,14 +5,14 @@ const Landing = ({ children }: PropsWithChildren) => {
   return (
     <>
       <div className="landing-section" id="landingDiv">
-        <video
+        {/* <video
           className="landing-bg-video"
           src="/images/background.mp4"
           autoPlay
           loop
           muted
           playsInline
-        />
+        /> */}
         <div className="landing-container">
           <div className="landing-intro">
             <h2>Hello! I'm</h2>

@@ -16,6 +16,7 @@ const setCharacter = (
   const loadCharacter = () => {
     return new Promise<GLTF | null>(async (resolve, reject) => {
       try {
+        // "/models/characterold.enc",
         const encryptedBlob = await decryptFile(
           "/models/characterold.enc",
           "Character3D#@"
