@@ -14,4 +14,4 @@ const encryptFile = (inputFile, outputFile, password) => {
 };
 
 // encryptFile("character.glb", "characterd.enc", "Character3D#@");
-encryptFile("Character_Animation_1.glb", "characterdw.enc", "Character3D#@");
+encryptFile("latest.glb", "latest.enc", "Character3D#@");
