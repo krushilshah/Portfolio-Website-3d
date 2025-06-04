@@ -87,24 +87,25 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
+              <h3>INTERIOR</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Started exploring spaces through the lens of a gamer now I
+                design them in real life. From cozy setups to modern rooms, I
+                craft immersive, functional interiors that tell a story.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Style & Tools </h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">Spatial planning</div>
+                <div className="what-tags">Lighting design</div>
+                <div className="what-tags">3D visualization</div>
+                <div className="what-tags">Moodboards</div>
+                <div className="what-tags">Tech-integrated layouts</div>
+                <div className="what-tags">Minimal</div>
+                <div className="what-tags">Modern</div>
+                <div className="what-tags">Gamer aesthetic</div>
+                {/* <div className="what-tags">PHP</div>
+                <div className="what-tags">MySql</div> */}
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -131,19 +132,26 @@ const WhatIDo = () => {
               <h3>DESIGN</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                I started experimenting with interiors out of curiosity-and like
+                all the best obsessions, it evolved into a full-on creative
+                career. 
+                Now, I design real-world spaces that blend style,
+                comfort, and a bit of virtual flair.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">SketchUp</div>
+                <div className="what-tags">AutoCAD</div>
+                <div className="what-tags">3ds Max</div>
+                <div className="what-tags">V-Ray</div>
+                <div className="what-tags">Photoshop</div>
+                <div className="what-tags">Lighting</div>
+                <div className="what-tags">Design</div>
+                <div className="what-tags">Moodboarding</div>
+                <div className="what-tags">Space Planning</div>
+                <div className="what-tags">Theme Styling</div>
+
+                {/* <div className="what-tags">Modelling</div> */}
               </div>
               <div className="what-arrow"></div>
             </div>
